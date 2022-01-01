@@ -22,3 +22,4 @@ def execute_query(connection, query): # executing change
         print(f"The error '{e}' occurred")
 
 connection = create_connection("database.db")
+
