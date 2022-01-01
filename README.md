@@ -7,6 +7,9 @@ This projects was created just so I can easily track my cash payments without ha
 
 ## Info and Libarys
 After research about how I could store the data, I settled on SQLite or something like that.
-
-
+For databases I could use:
+    - SQLITE3
+    - MySQL
+    - PostgreSQL
+    
 
