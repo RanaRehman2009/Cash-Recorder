@@ -1,4 +1,4 @@
-# Cash Recorder
+# Stages
 This projects was created just so I can easily track my cash payments without having to go through the trouble of going to excel/google sheets and fill init in myself.
 
 - [ ] Basic taking inputs from console and inputing it into a json/csv type file, and a reading mode as well (all in a command line interface)
@@ -12,4 +12,5 @@ For databases I could use:
 - MySQL
 - PostgreSQL
 
-
+## Problems I've run into
+- Me having problems with learning how to use,read, and write to databases
